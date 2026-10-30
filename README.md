@@ -1,8 +1,11 @@
-# Flutter Journey
+# 🚀 Flutter Journey
 
 ## 1️⃣ Day One
-| 📸 Screenshots | 
-|--------------|
-| ![Icon_App](screenshots/icon_app.png) | 
+
+### ❓ Question 1
+![Question 1](day1/screenshot/Q.png)
+
+### 💡 Answer
+![Answer](day1/screenshot/code.png)
 
 ---
